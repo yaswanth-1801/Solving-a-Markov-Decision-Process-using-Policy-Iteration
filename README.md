@@ -278,6 +278,8 @@ Optimal Policy:
  ['←' '→' '↓' '←']]
 ```
 <img width="377" height="338" alt="image" src="https://github.com/user-attachments/assets/9eed18c6-3788-4575-a900-acb018240385" />
+
+
 Policy Evaluation Value Function:
 <img width="702" height="268" alt="image" src="https://github.com/user-attachments/assets/bdfa91dd-3fd0-4333-8d0b-48ea8ba2d0cf" />
 
